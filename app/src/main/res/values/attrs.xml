@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LetterSideBar">
+        <attr name="interval" format="integer"/>
+        <attr name="normalColor" format="color"/>
+        <attr name="focusColor" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="CustomText">
+        <attr name="BackgroundColor" format="color"/>
+        <attr name="TextColor" format="color"/>
+        <attr name="BackgroundRadius" format="integer"/>
+    </declare-styleable>
+
+</resources>
